@@ -1,0 +1,74 @@
+img{
+  height: 250px;
+}
+hr {
+  border: none;
+  border-top-style: dotted;
+  border-color: #b4a5a5;
+  border-width: medium;
+  width: 5%;
+}
+body{
+  background-color: #e4d3cf;
+}
+.image {
+  shape-outside: circle(100%);
+  position: relative;
+  padding-top: 3%;
+  padding-left: 600px;
+  padding-bottom: 2%;
+}
+.modern{
+  padding-bottom: 50px;
+  text-align: center;
+  color: #f45905;
+  position:relative;
+  font-family: serif;
+  font-size: 33px;
+}
+.great{
+  color: grey;
+  font-size: 15px;
+  font-family: sans-serif;
+}
+.advance{
+  text-align: center;
+  padding-bottom: 2%;
+}
+input{
+  width: 330px;
+  height: 30px;
+}
+button{
+  background-color: #f45905;
+  width: 130px;
+  height: 35px
+}
+.bottom,hover{
+  position: relative;
+  float: right;
+  padding: 5%;
+}
+.first{
+  width: 4%;
+  height: 4%;
+  margin-left: -35%;
+}
+.second{
+  width: 4%;
+  height: 4%;
+}
+.third{
+  width: 4%;
+  height: 4%;
+}
+.forth{
+  width: 4%;
+  height: 4%;
+}
+.end {
+  color: grey;
+  position: relative;
+  padding-bottom: 2%;
+  margin-left: -36%;
+}
